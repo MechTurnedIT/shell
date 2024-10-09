@@ -4,5 +4,5 @@
 # Date Created:
 # Version: 
 # Date Modified:
-echo "Hello Mohammed"
+echo "Hello Dear"
 ./scr2.sh
